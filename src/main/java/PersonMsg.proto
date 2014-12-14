@@ -1,0 +1,14 @@
+package com.dean.course1.protobuf;
+
+        option java_package = "com.dean.course1.protobuf";
+        option java_outer_classname = "MyPerson";
+
+        message Person {
+
+        required int32 id = 1;
+
+        required string name = 2;
+
+        optional string email = 3;
+
+        }
