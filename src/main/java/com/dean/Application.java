@@ -1,4 +1,4 @@
-package com.dean.course1.rest;
+package com.dean;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
